@@ -11,7 +11,7 @@ Building scalable, modern web applications with **React**, **Next.js**, **TypeSc
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:bunyameenn@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 
@@ -161,7 +161,7 @@ A modern responsive landing page built with HTML, CSS and JavaScript.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/bunyameen-nurudeen-shola-94b112129
 - 🌍 Portfolio: Coming Soon
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: bunyameenn@gmail.com
 
 ---
 
